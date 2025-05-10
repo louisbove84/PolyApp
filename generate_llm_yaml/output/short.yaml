@@ -1,0 +1,5 @@
+script: Teach a Python concept.
+animations:
+- description: Equation Reveal
+  duration: 5
+  color: Yellow

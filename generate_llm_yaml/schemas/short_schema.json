@@ -1,0 +1,10 @@
+{
+  "script": ["Explain E=MC² in simple terms.", "Introduce blockchain basics.", "Teach a Python concept."],
+  "animations": [
+    {
+      "description": ["Mass to Light", "Equation Reveal", "Energy Burst"],
+      "duration": [5, 10, 15],
+      "color": ["Blue", "Yellow", "White"]
+    }
+  ]
+} 

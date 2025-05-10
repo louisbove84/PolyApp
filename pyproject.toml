@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "polyapp-llm-yaml-generator"
+version = "0.1.0"
+description = "A project to generate YAML configuration files using LLM and Pydantic models"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+dependencies = [
+    "pydantic",
+    "openai",
+    "python-dotenv",
+    "pyyaml"
+]
+
+[tool.setuptools]
+packages = ["generate_llm_yaml"] 

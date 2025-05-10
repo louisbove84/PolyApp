@@ -1,0 +1,13 @@
+{
+  "lesson": {
+    "title": ["E=MC² Basics", "Blockchain 101", "Python for Beginners"],
+    "topic": ["Physics", "Cryptocurrency", "Coding"],
+    "duration": [15, 30, 45, 60],
+    "difficulty": ["Beginner", "Intermediate", "Advanced"]
+  },
+  "content": {
+    "introduction": ["Explore a key concept.", "Learn foundational skills.", "Dive into an exciting topic."],
+    "explanation": ["Understand the core idea.", "Break down complex concepts.", "See how it works in practice."],
+    "example": ["Real-world application.", "Practical case study.", "Hands-on example."]
+  }
+} 
