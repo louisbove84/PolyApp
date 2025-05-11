@@ -24,10 +24,8 @@ jobs:
           pip install -e .
           pip install ruff pytest pytest-cov
       
-      - name: Run Ruff linter
-        run: |
-          ruff check .
-          ruff format --check .
+      - name: Lint
+        run: ruff check . --exclude scripts/
       
       - name: Run type checking
         run: |

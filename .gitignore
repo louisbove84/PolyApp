@@ -28,4 +28,7 @@ wheels/
 
 # Virtual Environment
 venv/
-ENV/ 
+ENV/
+
+# Scripts
+scripts/ 
