@@ -13,7 +13,9 @@ dependencies = [
     "pydantic",
     "openai",
     "python-dotenv",
-    "pyyaml"
+    "pyyaml",
+    "mypy",
+    "types-PyYAML"
 ]
 
 [tool.setuptools]
